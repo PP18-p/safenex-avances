@@ -8,7 +8,7 @@ Inicio
  Si {click en el botón de inicio}
   mostrar {pasar a la siguiente página}
  Si no:
-  mostrar ¨{permanecer en la misma página}
+  mostrar {permanecer en la misma página}
 ## Simulación en Scratch 
 SafeNex
 Hecho por:
